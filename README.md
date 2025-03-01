@@ -1,13 +1,13 @@
 <h1 align="center">👋 Halo, I'm Rishi Menon </h2>
 
-20, He/They
+He/They
 
 Student at **Ecole Intuit Lab, Mumbai**
 
 💅 Pretty Emoji :)
 
 I dabble with [React](https://react.dev) :atom_symbol: and I love CSS
-I also do Graphic Design, and use the Affinity suite instead 😈 (basically Photoshop/illustration but cheaper)
+I also do Graphic Design, and I use Adobe/Affinity tools. I'm really good at Illustrator and Figma.
 
 I LOVE LOVE LOVE me some retro futurism, and those modernist scifi designs, where it's just a solid color with the geometric lines
 
