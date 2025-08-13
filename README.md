@@ -13,7 +13,7 @@ I LOVE LOVE LOVE me some retro futurism, and those modernist scifi designs, wher
 
 _send help_
 
-<h2 align="center">Skillz</h2>
+<h2 align="center">Skills</h2>
 
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishimenon2004&theme=radical&border_radius=20&hide_border=true&card_width=800&size_weight=0&count_weight=1"/></p>
 
