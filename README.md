@@ -25,7 +25,7 @@ _send help_
   <br/>
   <img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white"/>
   <img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E"/>
-  <img src="https://img.shields.io/badge/GDScript?style=for-the-badge&logo=godotengine&logoColor=478cbf"/>
+  <img src="https://img.shields.io/badge/GDScript-478cbf?style=for-the-badge&logo=godotengine&logoColor=white"/>
   
   <br/>
   <img src="https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white"/>
