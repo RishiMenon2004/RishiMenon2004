@@ -1,17 +1,15 @@
 <h1 align="center">👋 Halo, I'm Rishi Menon </h2>
 
-He/They
+21 | He/They
 
-Student at **Ecole Intuit Lab, Mumbai**
+Student at **Ecole Intuit Lab, Mumbai** - Visual Communication
 
 💅 Pretty Emoji :)
 
-I dabble with [React](https://react.dev) :atom_symbol: and I love CSS
-I also do Graphic Design, and I use Adobe/Affinity tools. I'm really good at Illustrator and Figma.
+I'm an Illustrator and Graphic Designer looking to bring a new idea into the routine.
+Naturally I love CSS and I also dabble with [React](https://react.dev) :atom_symbol:
 
-I LOVE LOVE LOVE me some retro futurism, and those modernist scifi designs, where it's just a solid color with the geometric lines
-
-_send help_
+I LOVE LOVE LOVE retro-futurism, brutalisist and bauhaus designs.
 
 <h2 align="center">Skills</h2>
 
