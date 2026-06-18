@@ -15,8 +15,8 @@ I LOVE LOVE LOVE retro-futurism, brutalisist and bauhaus designs.
 <p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rishimenon2004&theme=radical&border_radius=20&hide_border=true&card_width=800&size_weight=0&count_weight=1"/></p>
 
 <p width=800 align="center">
-  <img width=150 src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
-  <img width=150 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
+  <img width=199 src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white"/>
+  <img width=199 src="https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB"/>
 
   <br/>
   <br/>
